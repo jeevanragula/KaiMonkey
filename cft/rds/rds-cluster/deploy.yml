@@ -24,3 +24,4 @@ Resources:
       DBClusterParameterGroupName: default.aurora-postgresql10
       EnableCloudwatchLogsExports:
         - postgresql
+      EnableIAMDatabaseAuthentication: True
